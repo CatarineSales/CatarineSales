@@ -1,11 +1,12 @@
-<!--## Hi there 👋
+<div align="center">
+ <h2>Welcome to my profile!</h2>
+</div>
 
-## Olá, eu sou Catarine
+<!--## Olá, eu sou Catarine
 
 <p>Atualmente faço faculdade de Desenvolvimento de Software;</p>
 
 <p>Amo fotografia;</p>👋-->
-
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CatarineSales&theme=radical&mode=weekly" />
