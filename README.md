@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Welcome to my profile!</h2>
+ <h2>Hi, welcome to my profile!</h2>
 </div>
 
 <!--## Olá, eu sou Catarine
