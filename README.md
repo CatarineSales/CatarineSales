@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
  <h2>Hi, welcome to my Github profile!</h2>
 </div>
 
@@ -6,7 +6,7 @@
 
 <p>Amo fotografia;</p>👋-->
 
-<div  align="center" style="margin-bottom:100px">
+<div style="margin-bottom:100px">
  <a href="https://github.com/CatarineSales">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CatarineSales&theme=radical&mode=weekly" />
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarineSales&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
