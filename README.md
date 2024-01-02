@@ -1,8 +1,6 @@
 <div align="center">
- <h2>Hi, welcome to my profile!</h2>
+ <h2>Hi, welcome to my Github profile!</h2>
 </div>
-
-<!--## Olá, eu sou Catarine
 
 <p>Atualmente faço faculdade de Desenvolvimento de Software;</p>
 
@@ -12,7 +10,6 @@
  <a href="https://github.com/CatarineSales">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CatarineSales&theme=radical&mode=weekly" />
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarineSales&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CatarineSales&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
  
  &nbsp;
