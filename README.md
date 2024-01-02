@@ -2,15 +2,11 @@
  <h2>Hi, welcome to my Github profile!</h2>
 </div>
 
-<!--<p>Atualmente faço faculdade de Desenvolvimento de Software;</p>
-
-<p>Amo fotografia;</p>👋-->
-
 <div style="margin-bottom:5px">
  <a href="https://github.com/CatarineSales">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarineSales&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CatarineSales&theme=radical&mode=weekly" />
-
+ <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarineSales&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
 </div>
  
  &nbsp;
