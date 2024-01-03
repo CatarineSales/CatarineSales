@@ -2,31 +2,33 @@
  <h2>Hi, welcome to my Github profile!</h2>
 </div>
 
-<div style="margin-bottom:5px">
+<div align="center" style="margin-bottom:5px">
  <a href="https://github.com/CatarineSales">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CatarineSales&theme=radical&mode=weekly" />
+  
  <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarineSales&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
 </div>
+
  
  &nbsp;
  &nbsp;
 
 
-<!--## Linguagens, ferramentas e Frameworks
+<div align="center" display=flex >
+ <h3> Principais Linguagens </h3>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
+
+<!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
-
-
-
 
 ## Contacts:
 
