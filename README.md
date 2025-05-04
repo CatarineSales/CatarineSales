@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/) -->
 <!--Principais Linguagens
-
+-->
 
 
 
@@ -41,10 +41,7 @@
   </a>
 </div>
 
-
 #
-
-
 
 <div align="center">
  <picture align="center">
