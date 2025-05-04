@@ -6,11 +6,17 @@
 <p align="center"> Sou estudante de Desenvolvimento de Software e Multiplataformas em busca de novos aprendizados! 
 <p align="center"> Possuo grande interesse em Front-End e Design e apaixonada por arte e tecnologia ❤️
 
+ &nbsp;
+ &nbsp;
 
-#
-
-
-<img align="right" alt="" height="190px" src="[./src/study.gif](https://br.pinterest.com/pin/331155378863953773/)">
+<div align="center" display=flex >
+ <p> Principais Linguagens </p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/>
 
 
 <!--
@@ -19,23 +25,14 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/) -->
-<!--Principais Linguagens-->
-<div align="center" display=flex >
- <h3> Principais Linguagens </h3>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<!--Principais Linguagens
 
 
-#
+
 
 
 
  <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CatarineSales&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=8A063D&text_color=FFF&border_radius=3&border_color=8A063D&icon_color=8A063D&theme=jolly" alt="GitHub stats">
 
@@ -48,14 +45,14 @@
 #
 
 
- &nbsp;
- &nbsp;
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatarineSales/CatarineSales/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatarineSales/CatarineSales/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CatarineSales/CatarineSales/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+ <picture align="center">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatarineSales/CatarineSales/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatarineSales/CatarineSales/output/github-contribution-grid-snake-dark.svg">
+   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CatarineSales/CatarineSales/output/github-contribution-grid-snake.svg">
+ </picture>
+</div>
 
 
 
@@ -64,6 +61,7 @@
 <!--
 
 color: #8A063D - vermelho escuro
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
