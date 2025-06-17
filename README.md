@@ -11,12 +11,12 @@
 
 <div align="center" display=flex >
  <p> Principais Linguagens </p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,css,js,html,java,mysql,mongodb,nodejs,spring,vscode,androidstudio,kotlin,github,git,&perline=14" />
+  </a>
+</p>
+</div>
+
 
 
 <!--
