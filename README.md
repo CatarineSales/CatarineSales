@@ -28,7 +28,7 @@
 
 #
 
-
+<!--
  <div style="text-align: center;" align="center">
   <br>
     <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CatarineSales&theme=transparent&show_icons=true&count_private=true" />
@@ -36,7 +36,7 @@
   </br>
 
 </div>
-
+-->
 
 <div align="center">
  <picture align="center">
