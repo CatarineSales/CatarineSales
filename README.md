@@ -3,7 +3,7 @@
 <div align="center">
  <h2>Olá, sou Catarine Sales!</h2>
 </div>
-<p align="center"> Sou estudante de Desenvolvimento de Software e Multiplataformas em busca de novos aprendizados! 
+<p align="center"> Sou uma desenvolvedora de Software e Multiplataformas em busca de novos aprendizados! 
 <p align="center"> Possuo grande interesse em Front-End e Design, além de ser apaixonada por arte e tecnologia ❤️
 
 <!--
