@@ -30,11 +30,11 @@
 
 <p align="center">
   <a href="https://github.com/CatarineSales">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CatarineSales&show_icons=true&theme=gruvbox&text_color=acacac&bg_color=161B22&&title_color=acacac&border_color=acacac&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CatarineSales&show_icons=true&theme=gruvbox&text_color=acacac&bg_color=161B22&&title_color=fff&border_color=acacac&include_all_commits=true&count_private=true"/>
   </a>
 
   <a href="https://github.com/CatarineSales">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CatarineSales&layout=compact&langs_count=7&theme=gruvbox&text_color=acacac&bg_color=161B22&title_color=acacac&border_color=acacac"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CatarineSales&layout=compact&langs_count=7&theme=gruvbox&text_color=acacac&bg_color=161B22&title_color=fff&border_color=acacac"/>
   </a>
 </p>
 
