@@ -20,7 +20,7 @@
 <div align="center" display=flex >
  <p> Principais Linguagens e Frameworks</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,js,html,git,java,mysql,mongodb,nodejs,spring,vscode,androidstudio,bootstrap,kotlin&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,css,js,html,git,java,mysql,mongodb,nodejs,react,vscode,androidstudio,bootstrap,kotlin&perline=14" />
   </a>
 </p>
 </div>
